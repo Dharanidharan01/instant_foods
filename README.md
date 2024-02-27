@@ -24,7 +24,7 @@ Design Preview
 ## Contributors
 1. Aiswarya
 2. Bajaji
-3. Abarna Sree
+3. Abarna Sri
 4. Faris
 
 
