@@ -22,10 +22,10 @@ Enjoy a convenient food ordering experience!
 Design Preview
 
 ## Contributors
-Aiswarya
-Balaji
-Abarna sree
-Faris
+1. Aiswarya\
+2. Bajaji
+3. Abarna Sree
+4. Faris
 
 
 License
