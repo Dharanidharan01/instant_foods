@@ -1,19 +1,19 @@
-##Instant Foods - Food Ordering Website
+# Instant Foods - Food Ordering Website
 
-##Description
+## Description
 Instant Foods is my first project, a frontend food ordering website developed using React JS, CSS, and designed using Figma. The website enables users to browse, search, and select dishes easily.
 
-##Features
+## Features
 Browse Menu: Users can explore a variety of dishes available on the menu.
 Search Functionality: Search for specific dishes based on keywords or categories.
 Select Dishes: Users can add dishes to their order selection.
 Responsive Design: Designed and developed with a focus on responsiveness for seamless user experience across devices.
 
-##Technologies Used
+## Technologies Used
 Frontend: React JS, CSS
 Design: Figma
 
-##Usage
+## Usage
 Visit the Instant Foods website.
 Browse through the available menu items.
 Use the search feature to find specific dishes.
@@ -21,7 +21,7 @@ Select desired dishes to add them to your order.
 Enjoy a convenient food ordering experience!
 Design Preview
 
-Contributors
+## Contributors
 Aiswarya
 Balaji
 Abarna sree
